@@ -1,4 +1,16 @@
+--># 👋 Hi, I'm Keshav Krishan Sharma
 
+🎓 Engineering Student | 💻 Programmer | 🌐 Tech Enthusiast
+
+---
+## 🧠 About Me
+
+- 🧑‍🎓 I'm currently in my 2nd year of Engineering  
+- 💡 Passionate about coding, technology, and problem solving  
+- 🌱 Currently learning advanced topics in programming and exploring data and web technologies  
+- 🧩 Always curious and eager to learn new things  
+
+---
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Keshav-k-Sharma) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:reach.keshavks@gmail.com) 
 
