@@ -1,15 +1,5 @@
 --># 👋 Hi , I'm Keshav Krishan Sharma
 
-🎓 Engineering Student | 💻 Programmer | 🌐 Tech Enthusiast
-
----
-## 🧠 About Me
-
-- 🧑‍🎓 I'm currently in my 2nd year of Engineering  
-- 💡 Passionate about coding, technology, and problem solving  
-- 🌱 Currently learning advanced topics in programming and exploring data and web technologies  
-- 🧩 Always curious and eager to learn new things  
-
 ---
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Keshav-k-Sharma) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:reach.keshavks@gmail.com) 
@@ -21,10 +11,3 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Keshav-k-Sharma&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Keshav-k-Sharma&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Keshav-k-Sharma&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=Keshav-k-Sharma&icon=0&color=10)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
